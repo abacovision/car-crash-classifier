@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/car_crash_classifier.dir/link.d CMakeFiles/car_crash_classifier.dir/src/main.cpp.o -o car_crash_classifier  lib/glfw/src/libglfw3.a /usr/lib/librt.a -lm -ldl

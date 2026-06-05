@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/filipy/car-crash-classifier/build/cmake_install.cmake",
+		"/home/filipy/car-crash-classifier/build/lib/glfw/cmake_install.cmake",
+		"/home/filipy/car-crash-classifier/build/lib/glfw/src/cmake_install.cmake",
+		"/home/filipy/car-crash-classifier/build/lib/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
